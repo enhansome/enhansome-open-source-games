@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Endless Sky - Space exploration, trading, and combat game. [source]",
-          "description": null,
+          "title": "Endless Sky",
+          "description": "Space exploration, trading, and combat game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-08-22T12:19:30Z",
             "owner": "endless-sky",
             "repo": "endless-sky",
-            "stars": 7511
+            "stars": 7515
           }
         },
         {
           "node_type": "item",
-          "title": "Zelda 3 - A reverse engineered clone of The Legend of Zelda: A Link to the Past. [source]",
-          "description": null,
+          "title": "Zelda 3 - A reverse engineered clone of The Legend of Zelda: A Link to the Past",
+          "description": ". [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,23 +35,23 @@
         },
         {
           "node_type": "item",
-          "title": "ScummVM - A program which allows you to run certain classic graphical adventure and role-playing games. [source]",
-          "description": null,
+          "title": "ScummVM",
+          "description": "A program which allows you to run certain classic graphical adventure and role-playing games. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1358940,
             "language": "C++",
-            "last_commit": "2026-08-23T13:44:38Z",
+            "last_commit": "2026-08-23T19:13:53Z",
             "owner": "scummvm",
             "repo": "scummvm",
-            "stars": 2789
+            "stars": 2791
           }
         },
         {
           "node_type": "item",
-          "title": "The Legend of Zelda: Twilight Princess - A reverse engineering project to decompile Twilight Princess into human-readable and modifiable source code. [source]",
-          "description": null,
+          "title": "The Legend of Zelda: Twilight Princess",
+          "description": "A reverse engineering project to decompile Twilight Princess into human-readable and modifiable source code. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,13 +60,13 @@
             "last_commit": "2026-06-23T19:52:55Z",
             "owner": "zeldaret",
             "repo": "tp",
-            "stars": 1998
+            "stars": 1999
           }
         },
         {
           "node_type": "item",
-          "title": "Pioneer - A space adventure game set in our galaxy at the turn of the 33rd century. [source]",
-          "description": null,
+          "title": "Pioneer",
+          "description": "A space adventure game set in our galaxy at the turn of the 33rd century. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "Dead Ascend - A zombie adventure, escape room, with twists. [source]",
-          "description": null,
+          "title": "Dead Ascend",
+          "description": "A zombie adventure, escape room, with twists. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,38 +101,38 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OpenRCT2 - An open-source re-implementation of RollerCoaster Tycoon 2. [source]",
-          "description": null,
+          "title": "OpenRCT2",
+          "description": "An open-source re-implementation of RollerCoaster Tycoon 2. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 18348651,
             "language": "C++",
-            "last_commit": "2026-08-23T14:35:46Z",
+            "last_commit": "2026-08-23T18:19:30Z",
             "owner": "OpenRCT2",
             "repo": "OpenRCT2",
-            "stars": 16108
+            "stars": 16114
           }
         },
         {
           "node_type": "item",
-          "title": "OpenTTD - An open source simulation game based upon Transport Tycoon Deluxe. [source]",
-          "description": null,
+          "title": "OpenTTD",
+          "description": "An open source simulation game based upon Transport Tycoon Deluxe. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 128430621,
             "language": "C++",
-            "last_commit": "2026-08-23T05:05:35Z",
+            "last_commit": "2026-08-24T05:21:44Z",
             "owner": "OpenTTD",
             "repo": "OpenTTD",
-            "stars": 8194
+            "stars": 8201
           }
         },
         {
           "node_type": "item",
-          "title": "CorsixTH - Open source clone of Theme Hospital",
-          "description": ". [source]",
+          "title": "CorsixTH",
+          "description": "Open source clone of Theme Hospital. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,13 +141,13 @@
             "last_commit": "2026-08-22T00:46:20Z",
             "owner": "CorsixTH",
             "repo": "CorsixTH",
-            "stars": 4524
+            "stars": 4528
           }
         },
         {
           "node_type": "item",
-          "title": "OpenLoco - An open source re-implementation of Chris Sawyer",
-          "description": "'s Locomotion. [source]",
+          "title": "OpenLoco",
+          "description": "An open source re-implementation of Chris Sawyer's Locomotion. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-23T13:02:42Z",
             "owner": "OpenLoco",
             "repo": "OpenLoco",
-            "stars": 1871
+            "stars": 1873
           }
         }
       ],
@@ -167,8 +167,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Citybound - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [source]",
-          "description": null,
+          "title": "Citybound",
+          "description": "A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,13 +177,13 @@
             "last_commit": "2023-01-07T02:34:23Z",
             "owner": "citybound",
             "repo": "citybound",
-            "stars": 8146
+            "stars": 8147
           }
         },
         {
           "node_type": "item",
-          "title": "Julius - An open source re-implementation of Caesar III. [source]",
-          "description": null,
+          "title": "Julius - An open source re-implementation of Caesar III",
+          "description": ". [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -192,13 +192,13 @@
             "last_commit": "2026-06-23T17:39:13Z",
             "owner": "bvschaik",
             "repo": "julius",
-            "stars": 3353
+            "stars": 3354
           }
         },
         {
           "node_type": "item",
-          "title": "IsoCity - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [source]",
-          "description": null,
+          "title": "IsoCity",
+          "description": "Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,13 +207,13 @@
             "last_commit": "2026-07-23T02:37:47Z",
             "owner": "amilich",
             "repo": "isometric-city",
-            "stars": 2293
+            "stars": 2294
           }
         },
         {
           "node_type": "item",
-          "title": "Cytopia - A free, open source retro pixel-art city building game. [source]",
-          "description": null,
+          "title": "Cytopia",
+          "description": "A free, open source retro pixel-art city building game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,13 +222,13 @@
             "last_commit": "2025-12-26T23:00:33Z",
             "owner": "CytopiaTeam",
             "repo": "Cytopia",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
           "node_type": "item",
-          "title": "Egregoria - Egregoria is an indie city builder, mostly inspired by Cities: Skylines. [source]",
-          "description": null,
+          "title": "Egregoria - Egregoria is an indie city builder, mostly inspired by Cities: Skylines",
+          "description": ". [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,8 +242,8 @@
         },
         {
           "node_type": "item",
-          "title": "micropolisJS - A handmade Javascript port of the open-source city simulator Micropolis. [source]",
-          "description": null,
+          "title": "micropolisJS",
+          "description": "A handmade Javascript port of the open-source city simulator Micropolis. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -257,14 +257,14 @@
         },
         {
           "node_type": "item",
-          "title": "Akhenaten - A strategic city-building game, based on assets and gameplay mechanics from Pharaoh + Cleopatra title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [source]",
-          "description": null,
+          "title": "Akhenaten",
+          "description": "A strategic city-building game, based on assets and gameplay mechanics from Pharaoh + Cleopatra title, where players take on the role of a ruler and mayor of ancient Egyptian civilization. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 658490226,
             "language": "C++",
-            "last_commit": "2026-08-23T14:06:50Z",
+            "last_commit": "2026-08-23T15:53:36Z",
             "owner": "dalerank",
             "repo": "Akhenaten",
             "stars": 490
@@ -272,8 +272,8 @@
         },
         {
           "node_type": "group",
-          "title": "Unknown Horizons - A 2D realtime strategy simulation with an emphasis on economy and city building.",
-          "description": null,
+          "title": "Unknown Horizons",
+          "description": "A 2D realtime strategy simulation with an emphasis on economy and city building.",
           "children": [
             {
               "node_type": "item",
@@ -315,8 +315,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Liblast - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [source]",
-          "description": "Engine: Godot [source]",
+          "title": "Liblast",
+          "description": "A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [source] Engine: Godot [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -325,13 +325,13 @@
             "last_commit": "2026-08-21T21:08:08Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 116033
+            "stars": 116078
           }
         },
         {
           "node_type": "item",
-          "title": ".kkrieger - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of Farbrausch",
-          "description": "), which won first place in the 96k game competition at Breakpoint in April 2004. [source]",
+          "title": ".kkrieger",
+          "description": "A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of Farbrausch), which won first place in the 96k game competition at Breakpoint in April 2004. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,8 +345,8 @@
         },
         {
           "node_type": "item",
-          "title": "Descent 3 - A first-person shooter video game/ [source]",
-          "description": null,
+          "title": "Descent 3",
+          "description": "A first-person shooter video game/ [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -367,16 +367,16 @@
             "archived": false,
             "id": 317931014,
             "language": "C++",
-            "last_commit": "2026-08-23T13:16:24Z",
+            "last_commit": "2026-08-24T13:40:05Z",
             "owner": "dpjudas",
             "repo": "SurrealEngine",
-            "stars": 1093
+            "stars": 1094
           }
         },
         {
           "node_type": "item",
-          "title": "AssaultCube - A FREE, multiplayer, first-person shooter game. [source]",
-          "description": "Engine: CUBE [source]",
+          "title": "AssaultCube",
+          "description": "A FREE, multiplayer, first-person shooter game. [source] Engine: CUBE [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,8 +390,8 @@
         },
         {
           "node_type": "item",
-          "title": "Red Eclipse - An old-school arena shooter for the modern age. [source]",
-          "description": "Engine: CUBE [source]",
+          "title": "Red Eclipse",
+          "description": "An old-school arena shooter for the modern age. [source] Engine: CUBE [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -400,13 +400,13 @@
             "last_commit": "2026-04-08T03:49:01Z",
             "owner": "redeclipse",
             "repo": "base",
-            "stars": 529
+            "stars": 530
           }
         },
         {
           "node_type": "item",
-          "title": "Cube 2: Sauerbraten - A free multiplayer & singleplayer first person shooter. [source]",
-          "description": "Engine: CUBE [source]",
+          "title": "Cube 2: Sauerbraten",
+          "description": "A free multiplayer & singleplayer first person shooter. [source] Engine: CUBE [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -429,10 +429,10 @@
                 "archived": false,
                 "id": 330008801,
                 "language": "C",
-                "last_commit": "2026-08-22T19:05:05Z",
+                "last_commit": "2026-08-24T07:00:56Z",
                 "owner": "libsdl-org",
                 "repo": "SDL",
-                "stars": 16386
+                "stars": 16397
               }
             },
             {
@@ -474,8 +474,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Duke Nukem 3D - By 3D Realms Entertainment, Inc",
-              "description": ". [source]",
+              "title": "Duke Nukem 3D",
+              "description": "By 3D Realms Entertainment, Inc. [source]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -506,8 +506,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Raze - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D",
-                  "description": ", Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.",
+                  "title": "Raze",
+                  "description": "Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -521,14 +521,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "NBlood - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [source]",
-                  "description": null,
+                  "title": "NBlood",
+                  "description": "Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 170327194,
                     "language": "C++",
-                    "last_commit": "2026-08-21T00:11:37Z",
+                    "last_commit": "2026-08-24T05:56:06Z",
                     "owner": "NBlood",
                     "repo": "NBlood",
                     "stars": 794
@@ -536,8 +536,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "JFDuke3D - Port of the 3D Realms",
-                  "description": "game Duke Nukem 3D [source]",
+                  "title": "JFDuke3D",
+                  "description": "Port of the 3D Realms game Duke Nukem 3D [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -593,8 +593,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Doom - [source]",
-              "description": null,
+              "title": "Doom",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -603,13 +603,13 @@
                 "last_commit": "2024-05-24T13:18:59Z",
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19453
+                "stars": 19454
               }
             },
             {
               "node_type": "item",
-              "title": "Quake III Arena - [source]",
-              "description": null,
+              "title": "Quake III Arena",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,13 +618,13 @@
                 "last_commit": "2024-08-02T00:20:36Z",
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8200
+                "stars": 8201
               }
             },
             {
               "node_type": "item",
-              "title": "Quake - [source]",
-              "description": null,
+              "title": "Quake",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,13 +633,13 @@
                 "last_commit": "2024-06-15T17:16:08Z",
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6021
+                "stars": 6023
               }
             },
             {
               "node_type": "item",
-              "title": "Doom 3 BFG Edition - [source]",
-              "description": null,
+              "title": "Doom 3 BFG Edition",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -653,8 +653,8 @@
             },
             {
               "node_type": "item",
-              "title": "Quake II - [source]",
-              "description": null,
+              "title": "Quake II",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,8 +668,8 @@
             },
             {
               "node_type": "item",
-              "title": "Wolfenstein 3D - [source]",
-              "description": null,
+              "title": "Wolfenstein 3D",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -727,23 +727,23 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "Chocolate Doom - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [source]",
-                      "description": null,
+                      "title": "Chocolate Doom",
+                      "description": "A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [source]",
                       "children": [],
                       "repo_info": {
                         "archived": false,
                         "id": 230912,
                         "language": "C",
-                        "last_commit": "2026-06-08T06:47:00Z",
+                        "last_commit": "2026-08-24T10:35:28Z",
                         "owner": "chocolate-doom",
                         "repo": "chocolate-doom",
-                        "stars": 2396
+                        "stars": 2398
                       }
                     },
                     {
                       "node_type": "item",
-                      "title": "ZDoom - A feature centric port for all Doom engine games. [source]",
-                      "description": null,
+                      "title": "ZDoom",
+                      "description": "A feature centric port for all Doom engine games. [source]",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -752,7 +752,7 @@
                         "last_commit": "2026-08-21T17:23:00Z",
                         "owner": "UZDoom",
                         "repo": "UZDoom",
-                        "stars": 2095
+                        "stars": 2098
                       }
                     }
                   ]
@@ -764,8 +764,8 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "FTEQW - Powerful engine for playing and modding idTech based games. [source]",
-                      "description": null,
+                      "title": "FTEQW",
+                      "description": "Powerful engine for playing and modding idTech based games. [source]",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -774,7 +774,7 @@
                         "last_commit": "2026-06-04T07:07:14Z",
                         "owner": "fte-team",
                         "repo": "fteqw",
-                        "stars": 332
+                        "stars": 333
                       }
                     },
                     {
@@ -844,34 +844,34 @@
             "last_commit": "2024-02-04T10:26:16Z",
             "owner": "n64decomp",
             "repo": "sm64",
-            "stars": 8733
+            "stars": 8734
           }
         },
         {
           "node_type": "item",
-          "title": "VVVVVV - [source]",
-          "description": null,
+          "title": "VVVVVV",
+          "description": "[source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 44403028,
             "language": "ActionScript",
-            "last_commit": "2026-08-23T14:51:31Z",
+            "last_commit": "2026-08-23T15:42:44Z",
             "owner": "TerryCavanagh",
             "repo": "VVVVVV",
-            "stars": 8013
+            "stars": 8014
           }
         },
         {
           "node_type": "item",
-          "title": "OpenGOAL - This project is to port Jak & Daxter Series",
-          "description": "to PC. [source]",
+          "title": "OpenGOAL",
+          "description": "This project is to port Jak & Daxter Series to PC. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 289585720,
             "language": "Common Lisp",
-            "last_commit": "2026-08-22T21:00:14Z",
+            "last_commit": "2026-08-24T05:56:24Z",
             "owner": "open-goal",
             "repo": "jak-project",
             "stars": 3486
@@ -894,14 +894,14 @@
         },
         {
           "node_type": "item",
-          "title": "DDraceNetwork - Cooperative 2D online platformer. [source]",
-          "description": null,
+          "title": "DDraceNetwork",
+          "description": "Cooperative 2D online platformer. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 22821674,
             "language": "C++",
-            "last_commit": "2026-08-23T14:20:51Z",
+            "last_commit": "2026-08-24T07:59:40Z",
             "owner": "ddnet",
             "repo": "ddnet",
             "stars": 816
@@ -909,8 +909,8 @@
         },
         {
           "node_type": "item",
-          "title": "Frogatto & Friends - An action-adventure platformer game, starring a certain quixotic frog. [source]",
-          "description": "Engine: Anura [source]",
+          "title": "Frogatto & Friends",
+          "description": "An action-adventure platformer game, starring a certain quixotic frog. [source] Engine: Anura [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -919,7 +919,7 @@
             "last_commit": "2025-11-20T22:26:51Z",
             "owner": "frogatto",
             "repo": "frogatto",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -929,8 +929,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Commander Keen in Keen Dreams - A side-scrolling platform video game developed by id Software. [source]",
-              "description": null,
+              "title": "Commander Keen in Keen Dreams",
+              "description": "A side-scrolling platform video game developed by id Software. [source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -966,8 +966,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Jumpy - A tactical 2D shooter. [source]",
-              "description": "Engine: Bevy [source]",
+              "title": "Jumpy",
+              "description": "A tactical 2D shooter. [source] Engine: Bevy [source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -981,8 +981,8 @@
             },
             {
               "node_type": "item",
-              "title": "Punchy - A 2.5D side-scroller beatemup, made in Bevy. Engine: Bevy [source]",
-              "description": null,
+              "title": "Punchy",
+              "description": "A 2.5D side-scroller beatemup, made in Bevy. Engine: Bevy [source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1014,13 +1014,13 @@
             "last_commit": "2026-08-21T07:21:42Z",
             "owner": "mwpenny",
             "repo": "portal64-still-alive",
-            "stars": 603
+            "stars": 604
           }
         },
         {
           "node_type": "item",
-          "title": "Whatajong - [source]",
-          "description": null,
+          "title": "Whatajong",
+          "description": "[source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1040,8 +1040,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "SuperTuxKart - A free kart racing game. It focuses on fun and not on realistic kart physics. [source]",
-          "description": null,
+          "title": "SuperTuxKart",
+          "description": "A free kart racing game. It focuses on fun and not on realistic kart physics. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,8 +1055,8 @@
         },
         {
           "node_type": "item",
-          "title": "wipEout - This is a re-implementation of the 1995 PSX game Wipeout",
-          "description": ". [source]",
+          "title": "wipEout",
+          "description": "This is a re-implementation of the 1995 PSX game Wipeout. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1065,13 +1065,13 @@
             "last_commit": "2026-08-09T15:57:21Z",
             "owner": "phoboslab",
             "repo": "wipeout-rewrite",
-            "stars": 2954
+            "stars": 2955
           }
         },
         {
           "node_type": "item",
-          "title": "Rigs of Rods - An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [source]",
-          "description": "Engine: OGRE [source] UI: Dear ImGui [source]",
+          "title": "Rigs of Rods",
+          "description": "An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [source] Engine: OGRE [source] UI: Dear ImGui [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1085,8 +1085,8 @@
         },
         {
           "node_type": "item",
-          "title": "VDrift - A cross-platform, open source driving simulation made with drift racing in mind. [source]",
-          "description": null,
+          "title": "VDrift",
+          "description": "A cross-platform, open source driving simulation made with drift racing in mind. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1100,8 +1100,8 @@
         },
         {
           "node_type": "item",
-          "title": "Dust Racing 2D - A traditional top-down car racing game including a level editor. [source]",
-          "description": null,
+          "title": "Dust Racing 2D",
+          "description": "A traditional top-down car racing game including a level editor. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,8 +1115,8 @@
         },
         {
           "node_type": "item",
-          "title": "Stunt Rally - 3D racing game with Sci-Fi elements and own Track Editor. [source]",
-          "description": null,
+          "title": "Stunt Rally",
+          "description": "3D racing game with Sci-Fi elements and own Track Editor. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,8 +1130,8 @@
         },
         {
           "node_type": "item",
-          "title": "Yorg - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [source]",
-          "description": "Engine: Panda3D [source]",
+          "title": "Yorg",
+          "description": "Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [source] Engine: Panda3D [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,38 +1151,38 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Mindustry - A sandbox tower-defense game. [source]",
-          "description": null,
+          "title": "Mindustry",
+          "description": "A sandbox tower-defense game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 89822531,
             "language": "Java",
-            "last_commit": "2026-08-22T09:04:38Z",
+            "last_commit": "2026-08-24T07:10:18Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28712
+            "stars": 28723
           }
         },
         {
           "node_type": "item",
-          "title": "OpenRA - Command & Conquer",
-          "description": ", Dune 2000 and Red Alert rebuild for the Modern Era. [source]",
+          "title": "OpenRA",
+          "description": "Command & Conquer, Dune 2000 and Red Alert rebuild for the Modern Era. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 959908,
             "language": "C#",
-            "last_commit": "2026-08-23T13:56:12Z",
+            "last_commit": "2026-08-23T20:58:22Z",
             "owner": "OpenRA",
             "repo": "OpenRA",
-            "stars": 17269
+            "stars": 17273
           }
         },
         {
           "node_type": "item",
-          "title": "OpenAge - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of Age of Empires",
-          "description": ". [source]",
+          "title": "OpenAge",
+          "description": "A free (as in freedom) cross-platform RTS game engine that provides the mechanics of Age of Empires. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1191,43 +1191,43 @@
             "last_commit": "2026-07-04T10:38:52Z",
             "owner": "SFTtech",
             "repo": "openage",
-            "stars": 14393
+            "stars": 14396
           }
         },
         {
           "node_type": "item",
-          "title": "BAR - Beyond All Reason. [source]",
-          "description": "Engine: Spring [source]",
+          "title": "BAR",
+          "description": "Beyond All Reason. [source] Engine: Spring [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 172370867,
             "language": "Lua",
-            "last_commit": "2026-08-23T13:07:02Z",
+            "last_commit": "2026-08-24T13:37:36Z",
             "owner": "beyond-all-reason",
             "repo": "Beyond-All-Reason",
-            "stars": 4164
+            "stars": 4170
           }
         },
         {
           "node_type": "item",
-          "title": "Warzone 2100 - A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [source]",
-          "description": null,
+          "title": "Warzone 2100",
+          "description": "A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1084181,
             "language": "C++",
-            "last_commit": "2026-08-22T02:25:37Z",
+            "last_commit": "2026-08-24T03:35:09Z",
             "owner": "Warzone2100",
             "repo": "warzone2100",
-            "stars": 3913
+            "stars": 3917
           }
         },
         {
           "node_type": "item",
-          "title": "Widelands - A free, open source real-time strategy game. [source]",
-          "description": null,
+          "title": "Widelands",
+          "description": "A free, open source real-time strategy game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,8 +1256,8 @@
         },
         {
           "node_type": "item",
-          "title": "OpenHV - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [source]",
-          "description": null,
+          "title": "OpenHV",
+          "description": "An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1271,14 +1271,14 @@
         },
         {
           "node_type": "item",
-          "title": "Keeper FX - An open-source remake and fan expansion of Dungeon Keeper",
-          "description": ". [source]",
+          "title": "Keeper FX",
+          "description": "An open-source remake and fan expansion of Dungeon Keeper. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 40917535,
             "language": "C",
-            "last_commit": "2026-08-23T14:41:52Z",
+            "last_commit": "2026-08-23T18:32:51Z",
             "owner": "dkfans",
             "repo": "keeperfx",
             "stars": 990
@@ -1286,8 +1286,8 @@
         },
         {
           "node_type": "item",
-          "title": "Zero-K - RTS game with physical projectiles, smart units and a powerful UI. [source]",
-          "description": "Engine: Spring [source]",
+          "title": "Zero-K",
+          "description": "RTS game with physical projectiles, smart units and a powerful UI. [source] Engine: Spring [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1301,8 +1301,8 @@
         },
         {
           "node_type": "item",
-          "title": "Dune II The Maker - A Dune 2 remake. [source]",
-          "description": null,
+          "title": "Dune II The Maker",
+          "description": "A Dune 2 remake. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1338,7 +1338,7 @@
             "archived": false,
             "id": 1065743210,
             "language": "C++",
-            "last_commit": "2026-08-23T13:54:02Z",
+            "last_commit": "2026-08-24T07:18:07Z",
             "owner": "djeada",
             "repo": "Standard-of-Iron",
             "stars": 53
@@ -1348,13 +1348,13 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Strategus Engine Games [source]",
-              "description": null,
+              "title": "Strategus",
+              "description": "Engine Games [source]",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Wargus - Importer and scripts for Warcraft II: Tides of Darkness",
-                  "description": ", the expansion Beyond the Dark Portal, and Aleonas Tales. [source]",
+                  "title": "Wargus",
+                  "description": "Importer and scripts for Warcraft II: Tides of Darkness, the expansion Beyond the Dark Portal, and Aleonas Tales. [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1368,8 +1368,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Wyrmsun - A strategy game which features elements of mythology, history and fiction. [source]",
-                  "description": null,
+                  "title": "Wyrmsun",
+                  "description": "A strategy game which features elements of mythology, history and fiction. [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1383,8 +1383,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Stargus - Importer and scripts for Starcraft",
-                  "description": ". [source]",
+                  "title": "Stargus",
+                  "description": "Importer and scripts for Starcraft. [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1398,8 +1398,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "War1gus - A re-implementation of Warcraft: Orcs & Humans",
-                  "description": "that that can be played on modern platforms. [source]",
+                  "title": "War1gus",
+                  "description": "A re-implementation of Warcraft: Orcs & Humans that that can be played on modern platforms. [source]",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1431,7 +1431,7 @@
                 "archived": false,
                 "id": 354564401,
                 "language": "Java",
-                "last_commit": "2026-08-23T12:21:21Z",
+                "last_commit": "2026-08-24T02:07:12Z",
                 "owner": "Retera",
                 "repo": "WarsmashModEngine",
                 "stars": 556
@@ -1449,7 +1449,7 @@
                 "last_commit": "2026-08-13T03:06:37Z",
                 "owner": "OpenBW",
                 "repo": "openbw",
-                "stars": 214
+                "stars": 215
               }
             }
           ],
@@ -1471,13 +1471,13 @@
                 "last_commit": "2025-01-16T18:54:17Z",
                 "owner": "electronicarts",
                 "repo": "CnC_Remastered_Collection",
-                "stars": 21392
+                "stars": 21393
               }
             },
             {
               "node_type": "item",
-              "title": "Red Alert - [source]",
-              "description": null,
+              "title": "Red Alert",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1506,8 +1506,8 @@
             },
             {
               "node_type": "item",
-              "title": "Tiberian Dawn - [source]",
-              "description": null,
+              "title": "Tiberian Dawn",
+              "description": "[source]",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1532,23 +1532,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Cataclysm: Dark Days Ahead - A turn-based survival game set in a post-apocalyptic world. [source]",
-          "description": null,
+          "title": "Cataclysm: Dark Days Ahead",
+          "description": "A turn-based survival game set in a post-apocalyptic world. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 5973855,
             "language": "C++",
-            "last_commit": "2026-08-23T03:35:07Z",
+            "last_commit": "2026-08-24T04:28:48Z",
             "owner": "CleverRaven",
             "repo": "Cataclysm-DDA",
-            "stars": 13007
+            "stars": 13017
           }
         },
         {
           "node_type": "item",
-          "title": "Shattered Pixel Dungeon - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [source]",
-          "description": null,
+          "title": "Shattered Pixel Dungeon",
+          "description": "An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1557,19 +1557,19 @@
             "last_commit": "2026-08-15T14:52:52Z",
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 6459
+            "stars": 6462
           }
         },
         {
           "node_type": "item",
-          "title": "NetHack - Single player dungeon exploration game. [source]",
-          "description": null,
+          "title": "NetHack",
+          "description": "Single player dungeon exploration game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 47593546,
             "language": "C",
-            "last_commit": "2026-08-22T14:45:03Z",
+            "last_commit": "2026-08-24T11:45:04Z",
             "owner": "NetHack",
             "repo": "NetHack",
             "stars": 3876
@@ -1577,14 +1577,14 @@
         },
         {
           "node_type": "item",
-          "title": "Dungeon Crawl Stone Soup - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [source]",
-          "description": null,
+          "title": "Dungeon Crawl Stone Soup",
+          "description": "An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23038334,
             "language": "C++",
-            "last_commit": "2026-08-23T02:13:11Z",
+            "last_commit": "2026-08-24T12:44:11Z",
             "owner": "crawl",
             "repo": "crawl",
             "stars": 2965
@@ -1592,8 +1592,8 @@
         },
         {
           "node_type": "item",
-          "title": "Brogue CE - Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [source]",
-          "description": null,
+          "title": "Brogue CE",
+          "description": "Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1602,7 +1602,7 @@
             "last_commit": "2026-08-05T12:06:37Z",
             "owner": "tmewett",
             "repo": "BrogueCE",
-            "stars": 1445
+            "stars": 1446
           }
         },
         {
@@ -1622,8 +1622,8 @@
         },
         {
           "node_type": "item",
-          "title": "Meritous - An action-adventure dungeon crawl game. [source]",
-          "description": null,
+          "title": "Meritous",
+          "description": "An action-adventure dungeon crawl game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1643,44 +1643,44 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Veloren - multiplayer voxel RPG written in Rust. [source]",
-          "description": null,
+          "title": "Veloren",
+          "description": "multiplayer voxel RPG written in Rust. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-23T03:28:50Z",
+            "last_commit": "2026-08-23T22:12:12Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7494
+            "stars": 7498
           }
         },
         {
           "node_type": "item",
-          "title": "OpenMW - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game The Elder Scrolls III: Morrowind",
-          "description": ". [source]",
+          "title": "OpenMW",
+          "description": "A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game The Elder Scrolls III: Morrowind. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 285722,
             "language": "C++",
-            "last_commit": "2026-08-23T08:29:11Z",
+            "last_commit": "2026-08-24T10:42:28Z",
             "owner": "OpenMW",
             "repo": "openmw",
-            "stars": 6522
+            "stars": 6523
           }
         },
         {
           "node_type": "item",
-          "title": "Space Station 14 – Open-source remake of Space Station 13",
-          "description": ". [source]",
+          "title": "Space Station 14",
+          "description": "Open-source remake of Space Station 13. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 92001425,
             "language": "C#",
-            "last_commit": "2026-08-23T11:37:27Z",
+            "last_commit": "2026-08-24T11:38:18Z",
             "owner": "space-wizards",
             "repo": "space-station-14",
             "stars": 3753
@@ -1688,14 +1688,14 @@
         },
         {
           "node_type": "item",
-          "title": "Daggerfall Unity - An open source recreation of Daggerfall",
-          "description": "in the Unity engine. [source]",
+          "title": "Daggerfall Unity",
+          "description": "An open source recreation of Daggerfall in the Unity engine. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 28884050,
             "language": "C#",
-            "last_commit": "2026-06-30T22:23:57Z",
+            "last_commit": "2026-08-24T06:59:53Z",
             "owner": "Interkarma",
             "repo": "daggerfall-unity",
             "stars": 3472
@@ -1713,7 +1713,7 @@
             "last_commit": "2025-01-15T18:47:51Z",
             "owner": "alexbatalov",
             "repo": "fallout1-ce",
-            "stars": 2898
+            "stars": 2899
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "last_commit": "2025-02-17T17:21:50Z",
             "owner": "alexbatalov",
             "repo": "fallout2-ce",
-            "stars": 2409
+            "stars": 2412
           }
         },
         {
@@ -1740,7 +1740,7 @@
             "archived": false,
             "id": 75572324,
             "language": "C++",
-            "last_commit": "2026-08-23T11:28:23Z",
+            "last_commit": "2026-08-24T11:36:43Z",
             "owner": "OpenEnroth",
             "repo": "OpenEnroth",
             "stars": 849
@@ -1748,8 +1748,8 @@
         },
         {
           "node_type": "item",
-          "title": "Exult - A project to recreate Ultima VII",
-          "description": "for modern operating systems. [source]",
+          "title": "Exult",
+          "description": "A project to recreate Ultima VII for modern operating systems. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1763,14 +1763,14 @@
         },
         {
           "node_type": "item",
-          "title": "Oolite - An open-world space opera. [source]",
-          "description": null,
+          "title": "Oolite",
+          "description": "An open-world space opera. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 10004412,
             "language": "Objective-C",
-            "last_commit": "2026-08-22T23:45:59Z",
+            "last_commit": "2026-08-23T23:22:51Z",
             "owner": "OoliteProject",
             "repo": "oolite",
             "stars": 653
@@ -1778,8 +1778,8 @@
         },
         {
           "node_type": "item",
-          "title": "Ambermoon.net - A full C# rewrite of Ambermoon",
-          "description": ". [source]",
+          "title": "Ambermoon.net",
+          "description": "A full C# rewrite of Ambermoon. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1793,8 +1793,8 @@
         },
         {
           "node_type": "item",
-          "title": "Severed Chains - The Legend of Dragoon",
-          "description": "decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [source]",
+          "title": "Severed Chains",
+          "description": "The Legend of Dragoon decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1808,8 +1808,8 @@
         },
         {
           "node_type": "item",
-          "title": "Ultima VII: Revisited - A replacement engine for Ultima VII",
-          "description": "that presents the game in 3D and fixes various issues with the game. [source]",
+          "title": "Ultima VII: Revisited",
+          "description": "A replacement engine for Ultima VII that presents the game in 3D and fixes various issues with the game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1818,7 +1818,7 @@
             "last_commit": "2026-08-21T20:01:00Z",
             "owner": "ViridianGames",
             "repo": "U7Revisited",
-            "stars": 497
+            "stars": 498
           }
         },
         {
@@ -1870,23 +1870,23 @@
             },
             {
               "node_type": "item",
-              "title": "DevilutionX - A port of Diablo",
-              "description": "and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [source]",
+              "title": "DevilutionX",
+              "description": "A port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [source]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 143324737,
                 "language": "C++",
-                "last_commit": "2026-08-23T05:08:16Z",
+                "last_commit": "2026-08-24T01:28:57Z",
                 "owner": "diasurgical",
                 "repo": "DevilutionX",
-                "stars": 9699
+                "stars": 9701
               }
             },
             {
               "node_type": "item",
-              "title": "Freeablo - A work-in-progress free and open-source replacement for the Diablo I",
-              "description": "engine. [source]",
+              "title": "Freeablo",
+              "description": "A work-in-progress free and open-source replacement for the Diablo I engine. [source]",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1932,7 +1932,7 @@
                 "last_commit": "2026-08-09T19:18:09Z",
                 "owner": "OpenKore",
                 "repo": "openkore",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -1963,14 +1963,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Taisei Project - A free and open-source fangame of the Tōhō series",
-          "description": ", written in C using SDL3 and OpenGL. [source]",
+          "title": "Taisei Project",
+          "description": "A free and open-source fangame of the Tōhō series, written in C using SDL3 and OpenGL. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 977986,
             "language": "C",
-            "last_commit": "2026-08-19T02:57:09Z",
+            "last_commit": "2026-08-24T13:38:28Z",
             "owner": "taisei-project",
             "repo": "taisei",
             "stars": 1602
@@ -1978,8 +1978,8 @@
         },
         {
           "node_type": "item",
-          "title": "SDL Sopwith - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [source]",
-          "description": null,
+          "title": "SDL Sopwith",
+          "description": "A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1999,8 +1999,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Open Golf - A cross-platform minigolf game written in C. [source]",
-          "description": null,
+          "title": "Open Golf",
+          "description": "A cross-platform minigolf game written in C. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2014,8 +2014,8 @@
         },
         {
           "node_type": "item",
-          "title": "Pooltool - A sandbox billiards game that emphasizes realistic physics. [source]",
-          "description": null,
+          "title": "Pooltool",
+          "description": "A sandbox billiards game that emphasizes realistic physics. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2035,8 +2035,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OpenLara - Classic Tomb Raider open-source engine. [source]",
-          "description": null,
+          "title": "OpenLara",
+          "description": "Classic Tomb Raider open-source engine. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2050,8 +2050,8 @@
         },
         {
           "node_type": "item",
-          "title": "Overgrowth - The sequel to Lugaru. [source]",
-          "description": null,
+          "title": "Overgrowth",
+          "description": "The sequel to Lugaru. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2065,8 +2065,8 @@
         },
         {
           "node_type": "item",
-          "title": "OpenRW - A Grand Theft Auto III",
-          "description": "re-implementation. [source]",
+          "title": "OpenRW",
+          "description": "A Grand Theft Auto III re-implementation. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2080,8 +2080,8 @@
         },
         {
           "node_type": "item",
-          "title": "Command & Conquer Renegade - [source]",
-          "description": null,
+          "title": "Command & Conquer Renegade",
+          "description": "[source]",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2095,8 +2095,8 @@
         },
         {
           "node_type": "item",
-          "title": "Tomb Engine - An open-source engine for custom Tomb Raider",
-          "description": "adventures. Core Design era (1 - 5). [source]",
+          "title": "Tomb Engine",
+          "description": "An open-source engine for custom Tomb Raider adventures. Core Design era (1 - 5). [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2140,8 +2140,8 @@
         },
         {
           "node_type": "item",
-          "title": "Lugaru: The Rabbit's Foot - Cross-platform, open-source 3D action game. [source]",
-          "description": null,
+          "title": "Lugaru: The Rabbit's Foot",
+          "description": "Cross-platform, open-source 3D action game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2161,53 +2161,53 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Unciv - Open-source Android/Desktop remake of Civilization V",
-          "description": ". [source]",
+          "title": "Unciv",
+          "description": "Open-source Android/Desktop remake of Civilization V. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 111605778,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T10:08:28Z",
+            "last_commit": "2026-08-24T13:42:43Z",
             "owner": "yairm210",
             "repo": "Unciv",
-            "stars": 11120
+            "stars": 11123
           }
         },
         {
           "node_type": "item",
-          "title": "The Battle for Wesnoth - A turn-based strategy game with a high fantasy theme. [source]",
-          "description": null,
+          "title": "The Battle for Wesnoth",
+          "description": "A turn-based strategy game with a high fantasy theme. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 9432220,
             "language": "C++",
-            "last_commit": "2026-08-22T16:11:55Z",
+            "last_commit": "2026-08-23T20:38:28Z",
             "owner": "wesnoth",
             "repo": "wesnoth",
-            "stars": 6842
+            "stars": 6841
           }
         },
         {
           "node_type": "item",
-          "title": "VCMI Project - Open-source engine for Heroes of Might and Magic III",
-          "description": ". [source]",
+          "title": "VCMI Project",
+          "description": "Open-source engine for Heroes of Might and Magic III. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 18490421,
             "language": "C++",
-            "last_commit": "2026-08-23T10:57:18Z",
+            "last_commit": "2026-08-24T09:56:38Z",
             "owner": "vcmi",
             "repo": "vcmi",
-            "stars": 5798
+            "stars": 5802
           }
         },
         {
           "node_type": "item",
-          "title": "fheroes2 - A recreation of Heroes of Might and Magic II",
-          "description": "game engine. [source]",
+          "title": "fheroes2",
+          "description": "A recreation of Heroes of Might and Magic II game engine. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2216,13 +2216,13 @@
             "last_commit": "2026-08-22T13:42:22Z",
             "owner": "ihhub",
             "repo": "fheroes2",
-            "stars": 3442
+            "stars": 3444
           }
         },
         {
           "node_type": "item",
-          "title": "OpenXcom - An open-source clone of the popular UFO: Enemy Unknown",
-          "description": "and X-COM: Terror From the Deep video games by MicroPros. [source]",
+          "title": "OpenXcom",
+          "description": "An open-source clone of the popular UFO: Enemy Unknown and X-COM: Terror From the Deep video games by MicroPros. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2236,8 +2236,8 @@
         },
         {
           "node_type": "item",
-          "title": "Athena Crisis - A modern-retro turn-based tactical strategy game. [source]",
-          "description": null,
+          "title": "Athena Crisis",
+          "description": "A modern-retro turn-based tactical strategy game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2266,29 +2266,29 @@
         },
         {
           "node_type": "item",
-          "title": "Freeciv - A Free and Open Source empire-building strategy game. [source]",
-          "description": null,
+          "title": "Freeciv",
+          "description": "A Free and Open Source empire-building strategy game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 88430427,
             "language": "C",
-            "last_commit": "2026-08-23T10:49:12Z",
+            "last_commit": "2026-08-24T01:55:03Z",
             "owner": "freeciv",
             "repo": "freeciv",
-            "stars": 1582
+            "stars": 1583
           }
         },
         {
           "node_type": "item",
-          "title": "FreeOrion - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [source]",
-          "description": null,
+          "title": "FreeOrion",
+          "description": "A free, open source, turn-based space empire and galactic conquest (4X) computer game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 33066062,
             "language": "C++",
-            "last_commit": "2026-08-22T21:13:15Z",
+            "last_commit": "2026-08-24T08:34:02Z",
             "owner": "freeorion",
             "repo": "freeorion",
             "stars": 1032
@@ -2296,8 +2296,8 @@
         },
         {
           "node_type": "item",
-          "title": "FreeCol - A turn-based strategy game based on the old gameColonization",
-          "description": ", and similar to Civilization. [source]",
+          "title": "FreeCol",
+          "description": "A turn-based strategy game based on the old gameColonization, and similar to Civilization. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2311,8 +2311,8 @@
         },
         {
           "node_type": "item",
-          "title": "OpenPanzer - Javascript/HTML5 rewrite of Panzer General II",
-          "description": "game. [source]",
+          "title": "OpenPanzer",
+          "description": "Javascript/HTML5 rewrite of Panzer General II game. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2326,14 +2326,14 @@
         },
         {
           "node_type": "item",
-          "title": "Hnefatafl - The game of Copenhagen Hnefatafl. Sort of like chess. [source]",
-          "description": null,
+          "title": "Hnefatafl",
+          "description": "The game of Copenhagen Hnefatafl. Sort of like chess. [source]",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 911481632,
             "language": "Rust",
-            "last_commit": "2026-08-22T23:06:28Z",
+            "last_commit": "2026-08-24T02:15:48Z",
             "owner": "dcampbell24",
             "repo": "hnefatafl",
             "stars": 8
@@ -2357,7 +2357,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24941
+            "stars": 24943
           }
         },
         {
@@ -2372,7 +2372,7 @@
             "last_commit": "2026-08-14T16:33:49Z",
             "owner": "michelpereira",
             "repo": "awesome-open-source-games",
-            "stars": 3025
+            "stars": 3026
           }
         },
         {
@@ -2395,7 +2395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:53:52.990Z",
+    "last_updated": "2026-08-24T13:51:08.432Z",
     "original_repository": "bobeff/open-source-games",
     "original_repository_id": 406930975,
     "original_repository_sha": "3a9ab8fc892a2cdadf8989a72ba7624a11e39cec",
