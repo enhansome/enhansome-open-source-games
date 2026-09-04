@@ -25,31 +25,31 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
-* **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [\[source\]](https://github.com/TeamHypersomnia/Hypersomnia) ⭐ 1,632 | 🐛 13 | 🌐 C++ | 📅 2026-09-02
+* **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [\[source\]](https://github.com/TeamHypersomnia/Hypersomnia) ⭐ 1,634 | 🐛 13 | 🌐 C++ | 📅 2026-09-04
 
 ## Adventure games
 
-* **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [\[source\]](https://github.com/endless-sky/endless-sky) ⭐ 7,531 | 🐛 919 | 🌐 C++ | 📅 2026-09-02
+* **[Endless Sky](https://endless-sky.github.io)** - Space exploration, trading, and combat game. [\[source\]](https://github.com/endless-sky/endless-sky) ⭐ 7,531 | 🐛 920 | 🌐 C++ | 📅 2026-09-02
 
-* **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [\[source\]](https://github.com/snesrev/zelda3) ⭐ 4,741 | 🐛 88 | 🌐 C | 📅 2023-12-27
+* **Zelda 3** - A reverse engineered clone of *[The Legend of Zelda: A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)*. [\[source\]](https://github.com/snesrev/zelda3) ⭐ 4,743 | 🐛 88 | 🌐 C | 📅 2023-12-27
 
-* **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [\[source\]](https://github.com/scummvm/scummvm) ⭐ 2,799 | 🐛 49 | 🌐 C++ | 📅 2026-09-03
+* **[ScummVM](https://www.scummvm.org)** - A program which allows you to run certain classic graphical adventure and role-playing games. [\[source\]](https://github.com/scummvm/scummvm) ⭐ 2,800 | 🐛 46 | 🌐 C++ | 📅 2026-09-04
 
-* **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [\[source\]](https://github.com/zeldaret/tp) ⭐ 2,008 | 🐛 34 | 🌐 C++ | 📅 2026-06-23
+* **[The Legend of Zelda: Twilight Princess](https://zsrtp.link)** - A reverse engineering project to decompile *[Twilight Princess](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess)* into human-readable and modifiable source code. [\[source\]](https://github.com/zeldaret/tp) ⭐ 2,009 | 🐛 34 | 🌐 C++ | 📅 2026-06-23
 
-* **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [\[source\]](https://github.com/pioneerspacesim/pioneer) ⭐ 1,906 | 🐛 332 | 🌐 C++ | 📅 2026-09-02
+* **[Pioneer](https://pioneerspacesim.net)** - A space adventure game set in our galaxy at the turn of the 33rd century. [\[source\]](https://github.com/pioneerspacesim/pioneer) ⭐ 1,907 | 🐛 330 | 🌐 C++ | 📅 2026-09-04
 
 * **[Dead Ascend](https://blackgrain.dk/games/deadascend)** - A zombie adventure, escape room, with twists. [\[source\]](https://github.com/larpon/DeadAscend) ⭐ 60 | 🐛 5 | 🌐 QML | 📅 2024-08-21
 
 ## Business and Tycoon games
 
-* **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [\[source\]](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,180 | 🐛 1,486 | 🌐 C++ | 📅 2026-09-03
+* **[OpenRCT2](https://openrct2.org)** - An open-source re-implementation of *[RollerCoaster Tycoon 2](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_2)*. [\[source\]](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,187 | 🐛 1,483 | 🌐 C++ | 📅 2026-09-03
 
-* **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [\[source\]](https://github.com/OpenTTD/OpenTTD) ⭐ 8,226 | 🐛 409 | 🌐 C++ | 📅 2026-09-03
+* **[OpenTTD](https://www.openttd.org)** - An open source simulation game based upon *[Transport Tycoon Deluxe](https://en.wikipedia.org/wiki/Transport_Tycoon)*. [\[source\]](https://github.com/OpenTTD/OpenTTD) ⭐ 8,229 | 🐛 408 | 🌐 C++ | 📅 2026-09-03
 
-* **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [\[source\]](https://github.com/CorsixTH/CorsixTH) ⭐ 4,544 | 🐛 247 | 🌐 Lua | 📅 2026-08-29
+* **[CorsixTH](https://corsixth.com)** - Open source clone of [Theme Hospital](https://en.wikipedia.org/wiki/Theme_Hospital). [\[source\]](https://github.com/CorsixTH/CorsixTH) ⭐ 4,546 | 🐛 248 | 🌐 Lua | 📅 2026-09-04
 
-* **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [\[source\]](https://github.com/OpenLoco/OpenLoco) ⭐ 1,889 | 🐛 456 | 🌐 C++ | 📅 2026-09-03
+* **[OpenLoco](https://openloco.io)** - An open source re-implementation of [Chris Sawyer](https://en.wikipedia.org/wiki/Chris_Sawyer)'s [Locomotion](https://en.wikipedia.org/wiki/Chris_Sawyer%27s_Locomotion). [\[source\]](https://github.com/OpenLoco/OpenLoco) ⭐ 1,892 | 🐛 457 | 🌐 C++ | 📅 2026-09-04
 
 * **[Hurry Curry!](https://hurrycurry.org)** - Cooperative fast-paced multiplayer cooking game. [\[source\]](https://codeberg.org/hurrycurry/hurrycurry)
 
@@ -59,9 +59,9 @@ This is a list of different open-source video games and commercial video games o
 
 * **Julius** - An open source re-implementation of *[Caesar III](https://en.wikipedia.org/wiki/Caesar_III)*. [\[source\]](https://github.com/bvschaik/julius) ⭐ 3,362 | 🐛 10 | 🌐 C | 📅 2026-06-23
 
-* **[IsoCity](https://iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [\[source\]](https://github.com/amilich/isometric-city) ⭐ 2,300 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-02
+* **[IsoCity](https://iso-city.com)** - Isometric city-building simulation game built with NextJS, TypeScript and TailwindCSS. [\[source\]](https://github.com/amilich/isometric-city) ⭐ 2,301 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-02
 
-* **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [\[source\]](https://github.com/CytopiaTeam/Cytopia) ⭐ 2,154 | 🐛 94 | 🌐 C++ | 📅 2026-08-30
+* **[Cytopia](https://cytopia.itch.io/cytopia)** - A free, open source retro pixel-art city building game. [\[source\]](https://github.com/CytopiaTeam/Cytopia) ⭐ 2,155 | 🐛 94 | 🌐 C++ | 📅 2026-08-30
 
 * **Egregoria** - Egregoria is an indie city builder, mostly inspired by *[Cities: Skylines](https://en.wikipedia.org/wiki/Cities:_Skylines)*. [\[source\]](https://github.com/Uriopass/Egregoria) ⭐ 1,638 | 🐛 32 | 🌐 Rust | 📅 2025-06-02
 
@@ -71,19 +71,19 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Unknown Horizons](https://unknown-horizons.org)** - A 2D realtime strategy simulation with an emphasis on economy and city building.
 
-  * **Original:** [\[source\]](https://github.com/unknown-horizons/unknown-horizons) ⭐ 1,539 | 🐛 224 | 🌐 Python | 📅 2026-04-14 **Engine: [FIFE](https://www.fifengine.net/)** [\[source\]](https://github.com/fifengine/fifengine) ⭐ 580 | 🐛 18 | 🌐 C++ | 📅 2026-08-18
+  * **Original:** [\[source\]](https://github.com/unknown-horizons/unknown-horizons) ⭐ 1,539 | 🐛 224 | 🌐 Python | 📅 2026-04-14 **Engine: [FIFE](https://www.fifengine.net/)** [\[source\]](https://github.com/fifengine/fifengine) ⭐ 579 | 🐛 18 | 🌐 C++ | 📅 2026-08-18
 
-  * **Godot port:** [\[source\]](https://github.com/unknown-horizons/godot-port) ⭐ 899 | 🐛 18 | 🌐 GDScript | 📅 2025-12-04 **Engine: [Godot](https://godotengine.org)** [\[source\]](https://github.com/godotengine/godot) ⭐ 116,554 | 🐛 18,807 | 🌐 C++ | 📅 2026-09-03
+  * **Godot port:** [\[source\]](https://github.com/unknown-horizons/godot-port) ⭐ 899 | 🐛 18 | 🌐 GDScript | 📅 2025-12-04 **Engine: [Godot](https://godotengine.org)** [\[source\]](https://github.com/godotengine/godot) ⭐ 116,596 | 🐛 18,832 | 🌐 C++ | 📅 2026-09-04
 
 ## First-Person games
 
-* **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [\[source\]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [\[source\]](https://github.com/godotengine/godot) ⭐ 116,554 | 🐛 18,807 | 🌐 C++ | 📅 2026-09-03
+* **[Liblast](https://libla.st)** - A Libre Multiplayer FPS Game built with Godot 4 engine and a fully open-source toolchain. [\[source\]](https://codeberg.org/liblast/liblast) **Engine: [Godot](https://godotengine.org)** [\[source\]](https://github.com/godotengine/godot) ⭐ 116,596 | 🐛 18,832 | 🌐 C++ | 📅 2026-09-04
 
-* **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_\(demoparty\)) in April 2004. [\[source\]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger) ⭐ 3,773 | 🐛 27 | 🌐 C++ | 📅 2019-07-28
+* **[.kkrieger](https://en.wikipedia.org/wiki/.kkrieger)** - A first-person shooter video game created by German demogroup .theprodukkt (a former subdivision of [Farbrausch](https://en.wikipedia.org/wiki/Farbrausch)), which won first place in the 96k game competition at [Breakpoint](https://en.wikipedia.org/wiki/Breakpoint_\(demoparty\)) in April 2004. [\[source\]](https://github.com/farbrausch/fr_public/tree/master/werkkzeug3_kkrieger) ⭐ 3,772 | 🐛 27 | 🌐 C++ | 📅 2019-07-28
 
 * **[Descent 3](https://en.wikipedia.org/wiki/Descent_3)** - A first-person shooter video game/ [\[source\]](https://github.com/kevinbentley/Descent3) ⭐ 3,004 | 🐛 45 | 🌐 C++ | 📅 2026-01-21
 
-* **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [\[source\]](https://github.com/dpjudas/SurrealEngine) ⭐ 1,102 | 🐛 11 | 🌐 C++ | 📅 2026-09-03
+* **Surreal Engine** - [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament) Engine Reimplementation. [\[source\]](https://github.com/dpjudas/SurrealEngine) ⭐ 1,102 | 🐛 11 | 🌐 C++ | 📅 2026-09-04
 
 * **[AssaultCube](https://assault.cubers.net)** - A FREE, multiplayer, first-person shooter game. [\[source\]](https://github.com/assaultcube/AC) ⭐ 1,047 | 🐛 185 | 🌐 C | 📅 2026-02-20 **Engine: [CUBE](http://cubeengine.com)** [\[source\]](https://github.com/bsegovia/cube) ⭐ 32 | 🐛 1 | 🌐 C | 📅 2013-03-30
 
@@ -99,7 +99,7 @@ This is a list of different open-source video games and commercial video games o
 
 ### *[Aliens Versus Predator](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_\(1999_video_game\)) game source ports*
 
-* **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([\[source\]](https://github.com/libsdl-org/SDL) ⭐ 16,498 | 🐛 815 | 🌐 C | 📅 2026-09-03). [\[source\]](https://github.com/atsb/NakedAVP) ⭐ 82 | 🐛 2 | 🌐 C | 📅 2026-02-15
+* **NakedAVP** - A port of *Aliens vs Predator Classic (2000)* to modern systems, based on the icculus port for Linux, macOS and Windows using [SDL3](https://libsdl.org/) ([\[source\]](https://github.com/libsdl-org/SDL) ⭐ 16,504 | 🐛 823 | 🌐 C | 📅 2026-09-03). [\[source\]](https://github.com/atsb/NakedAVP) ⭐ 83 | 🐛 2 | 🌐 C | 📅 2026-02-15
 
 * **avpmp** - Fork of the original AvP port for Linux, expanded with multiplayer and other features. [\[source\]](https://github.com/mbait/avpmp) ⭐ 19 | 🐛 1 | 🌐 C | 📅 2011-01-03
 
@@ -115,7 +115,7 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Raze](https://github.com/ZDoom/Raze) ⭐ 881 | 🐛 139 | 🌐 C++ | 📅 2025-11-19** - Build engine port backed by GZDoom tech. Currently supports [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D), [Blood](https://en.wikipedia.org/wiki/Blood_\(video_game\)), [Shadow Warrior](https://en.wikipedia.org/wiki/Shadow_Warrior_\(1997_video_game\)), [Redneck Rampage](https://en.wikipedia.org/wiki/Redneck_Rampage) and [Powerslave](https://en.wikipedia.org/wiki/PowerSlave)/Exhumed.
 
-* **[NBlood](https://github.com/NBlood/NBlood) ⭐ 799 | 🐛 115 | 🌐 C++ | 📅 2026-08-26** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [\[source\]](https://github.com/NBlood/NBlood) ⭐ 799 | 🐛 115 | 🌐 C++ | 📅 2026-08-26
+* **[NBlood](https://github.com/NBlood/NBlood) ⭐ 800 | 🐛 115 | 🌐 C++ | 📅 2026-08-26** - Reverse-engineered ports of Build games using EDuke32 engine technology and development principles (NBlood/Rednukem/PCExhume d) [\[source\]](https://github.com/NBlood/NBlood) ⭐ 800 | 🐛 115 | 🌐 C++ | 📅 2026-08-26
 
 * **[JFDuke3D](https://www.jonof.id.au/jfduke3d)** - Port of the [3D Realms](https://en.wikipedia.org/wiki/3D_Realms) game [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) [\[source\]](https://github.com/jonof/jfduke3d) ⭐ 140 | 🐛 4 | 🌐 C | 📅 2026-01-25
 
@@ -129,17 +129,17 @@ This is a list of different open-source video games and commercial video games o
 
 ### *[id Software](https://en.wikipedia.org/wiki/Id_Software) Games*
 
-* **[Doom](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\))** - [\[source\]](https://github.com/id-Software/DOOM) ⭐ 19,508 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
+* **[Doom](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\))** - [\[source\]](https://github.com/id-Software/DOOM) ⭐ 19,514 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
 
-* **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [\[source\]](https://github.com/id-Software/Quake-III-Arena) ⭐ 8,215 | 🐛 3 | 🌐 C | 📅 2024-08-02
+* **[Quake III Arena](https://en.wikipedia.org/wiki/Quake_III_Arena)** - [\[source\]](https://github.com/id-Software/Quake-III-Arena) ⭐ 8,216 | 🐛 3 | 🌐 C | 📅 2024-08-02
 
-* **[Quake](https://en.wikipedia.org/wiki/Quake_\(video_game\))** - [\[source\]](https://github.com/id-Software/Quake) ⭐ 6,042 | 🐛 4 | 🌐 C | 📅 2024-06-15
+* **[Quake](https://en.wikipedia.org/wiki/Quake_\(video_game\))** - [\[source\]](https://github.com/id-Software/Quake) ⭐ 6,044 | 🐛 4 | 🌐 C | 📅 2024-06-15
 
 * **[Doom 3](https://en.wikipedia.org/wiki/Doom_3) BFG Edition** - [\[source\]](https://github.com/id-Software/DOOM-3-BFG) ⭐ 5,375 | 🐛 4 | 🌐 C++ | 📅 2024-08-21
 
 * **[Quake II](https://en.wikipedia.org/wiki/Quake_II)** - [\[source\]](https://github.com/id-Software/Quake-2) ⭐ 3,337 | 🐛 3 | 🌐 C | 📅 2023-12-05
 
-* **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [\[source\]](https://github.com/id-Software/wolf3d) ⭐ 2,533 | 🐛 1 | 📅 2012-02-06
+* **[Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)** - [\[source\]](https://github.com/id-Software/wolf3d) ⭐ 2,534 | 🐛 1 | 📅 2012-02-06
 
 * **DOOM64-RE** - Complete reverse engineering of [Doom 64](https://en.wikipedia.org/wiki/Doom_64). [\[source\]](https://github.com/Erick194/DOOM64-RE) ⭐ 236 | 🐛 1 | 🌐 C | 📅 2025-05-30
 
@@ -151,13 +151,13 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Doom](https://en.wikipedia.org/wiki/Doom_\(1993_video_game\))**
 
-  * **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [\[source\]](https://github.com/chocolate-doom/chocolate-doom) ⭐ 2,402 | 🐛 336 | 🌐 C | 📅 2026-08-24
+  * **[Chocolate Doom](https://www.chocolate-doom.org)** - A Doom source port that accurately reproduces the experience of Doom as it was played in the 1990s. [\[source\]](https://github.com/chocolate-doom/chocolate-doom) ⭐ 2,401 | 🐛 336 | 🌐 C | 📅 2026-08-24
 
-  * **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [\[source\]](https://github.com/UZDoom/UZDoom) ⭐ 2,182 | 🐛 629 | 🌐 C++ | 📅 2026-09-03
+  * **[ZDoom](https://zdoom.org)** - A feature centric port for all Doom engine games. [\[source\]](https://github.com/UZDoom/UZDoom) ⭐ 2,186 | 🐛 628 | 🌐 C++ | 📅 2026-09-04
 
 * **[Quake](https://en.wikipedia.org/wiki/Quake_\(video_game\))**
 
-  * **[FTEQW](https://www.fteqw.org)** - Powerful engine for playing and modding idTech based games. [\[source\]](https://github.com/fte-team/fteqw) ⭐ 336 | 🐛 177 | 🌐 C | 📅 2026-06-04
+  * **[FTEQW](https://www.fteqw.org)** - Powerful engine for playing and modding idTech based games. [\[source\]](https://github.com/fte-team/fteqw) ⭐ 337 | 🐛 177 | 🌐 C | 📅 2026-06-04
 
   * **Chocolate Quake** - A purist Quake source port that restores the original look and feel of v1.09 and earlier. [\[source\]](https://github.com/Henrique194/chocolate-quake) ⭐ 215 | 🐛 16 | 🌐 C | 📅 2026-08-07
 
@@ -169,15 +169,15 @@ This is a list of different open-source video games and commercial video games o
 
 ## Platformers
 
-* **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [\[source\]](https://github.com/n64decomp/sm64) ⭐ 8,749 | 🐛 28 | 🌐 C | 📅 2024-02-04
+* **Super Mario 64** - A full decompilation of [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64). [\[source\]](https://github.com/n64decomp/sm64) ⭐ 8,754 | 🐛 28 | 🌐 C | 📅 2024-02-04
 
 * **[VVVVVV](https://thelettervsixtim.es/)** - [\[source\]](https://github.com/TerryCavanagh/VVVVVV) ⭐ 8,024 | 🐛 50 | 🌐 ActionScript | 📅 2026-08-24
 
-* **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [\[source\]](https://github.com/water111/jak-project) ⭐ 3,500 | 🐛 190 | 🌐 Common Lisp | 📅 2026-09-01
+* **[OpenGOAL](https://opengoal.dev)** - This project is to port [Jak & Daxter Series](https://en.wikipedia.org/wiki/Jak_and_Daxter) to PC. [\[source\]](https://github.com/water111/jak-project) ⭐ 3,500 | 🐛 186 | 🌐 Common Lisp | 📅 2026-09-04
 
 * **Rigel Engine** - This project is a re-implementation of the game [Duke Nukem II](https://en.wikipedia.org/wiki/Duke_Nukem_II), originally released by Apogee Software in 1993 for MS-DOS. [\[source\]](https://github.com/lethal-guitar/RigelEngine) ⭐ 1,002 | 🐛 16 | 🌐 C++ | 📅 2024-05-26
 
-* **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [\[source\]](https://github.com/ddnet/ddnet) ⭐ 820 | 🐛 1,023 | 🌐 C++ | 📅 2026-09-03
+* **[DDraceNetwork](https://ddnet.tw)** - Cooperative 2D online platformer. [\[source\]](https://github.com/ddnet/ddnet) ⭐ 820 | 🐛 1,024 | 🌐 C++ | 📅 2026-09-04
 
 * **[Frogatto & Friends](https://frogatto.com)** - An action-adventure platformer game, starring a certain quixotic frog. [\[source\]](https://github.com/frogatto/frogatto) ⭐ 701 | 🐛 166 | 🌐 Ruby | 📅 2026-08-24 **Engine: Anura** [\[source\]](https://github.com/anura-engine/anura) ⭐ 410 | 🐛 137 | 🌐 C++ | 📅 2026-04-30
 
@@ -194,9 +194,9 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Fish Folk](https://fishfolk.org) Games**
 
-  * **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [\[source\]](https://github.com/fishfolk/jumpy) ⭐ 1,877 | 🐛 80 | 🌐 Rust | 📅 2026-01-30 **Engine: [Bevy](https://bevy.org/)** [\[source\]](https://github.com/bevyengine/bevy) ⭐ 48,027 | 🐛 3,437 | 🌐 Rust | 📅 2026-09-02
+  * **[Jumpy](https://fishfolk.org/games/jumpy)** - A tactical 2D shooter. [\[source\]](https://github.com/fishfolk/jumpy) ⭐ 1,877 | 🐛 80 | 🌐 Rust | 📅 2026-01-30 **Engine: [Bevy](https://bevy.org/)** [\[source\]](https://github.com/bevyengine/bevy) ⭐ 48,041 | 🐛 3,437 | 🌐 Rust | 📅 2026-09-04
 
-  * **[Punchy](https://github.com/fishfolk/punchy) ⭐ 311 | 🐛 29 | 🌐 Rust | 📅 2024-06-06** - A 2.5D side-scroller beatemup, made in Bevy. **Engine: [Bevy](https://bevy.org/)** [\[source\]](https://github.com/bevyengine/bevy) ⭐ 48,027 | 🐛 3,437 | 🌐 Rust | 📅 2026-09-02
+  * **[Punchy](https://github.com/fishfolk/punchy) ⭐ 311 | 🐛 29 | 🌐 Rust | 📅 2024-06-06** - A 2.5D side-scroller beatemup, made in Bevy. **Engine: [Bevy](https://bevy.org/)** [\[source\]](https://github.com/bevyengine/bevy) ⭐ 48,041 | 🐛 3,437 | 🌐 Rust | 📅 2026-09-04
 
 * **[Sonic Robo Blast 2](https://www.srb2.org)** - A 3D open-source Sonic the Hedgehog fangame built on Doom. [\[source\]](https://git.do.srb2.org/STJr/SRB2)
 
@@ -210,11 +210,11 @@ This is a list of different open-source video games and commercial video games o
 
 ## Racing games
 
-* **[SuperTuxKart](https://supertuxkart.net)** - A free kart racing game. It focuses on fun and not on realistic kart physics. [\[source\]](https://github.com/supertuxkart/stk-code) ⭐ 5,335 | 🐛 526 | 🌐 C++ | 📅 2026-09-03
+* **[SuperTuxKart](https://supertuxkart.net)** - A free kart racing game. It focuses on fun and not on realistic kart physics. [\[source\]](https://github.com/supertuxkart/stk-code) ⭐ 5,339 | 🐛 519 | 🌐 C++ | 📅 2026-09-04
 
 * **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** - This is a re-implementation of the 1995 PSX game [Wipeout](https://en.wikipedia.org/wiki/Wipeout_\(video_game\)). [\[source\]](https://github.com/phoboslab/wipeout-rewrite) ⭐ 2,957 | 🐛 71 | 🌐 C | 📅 2026-08-09
 
-* **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [\[source\]](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,235 | 🐛 235 | 🌐 C++ | 📅 2026-08-28 **Engine: [OGRE](https://www.ogre3d.org)** [\[source\]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [\[source\]](https://github.com/ocornut/imgui) ⭐ 76,041 | 🐛 1,230 | 🌐 C++ | 📅 2026-09-03
+* **[Rigs of Rods](https://www.rigsofrods.org)** -  An open-source physics sandbox simulation game that can simulate the motion and deformation of vehicles in real time. [\[source\]](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,236 | 🐛 235 | 🌐 C++ | 📅 2026-08-28 **Engine: [OGRE](https://www.ogre3d.org)** [\[source\]](https://github.com/OGRECave) **UI: [Dear ImGui](https://www.dearimgui.com)** [\[source\]](https://github.com/ocornut/imgui) ⭐ 76,062 | 🐛 1,231 | 🌐 C++ | 📅 2026-09-04
 
 * **[VDrift](https://vdrift.net)** - A cross-platform, open source driving simulation made with drift racing in mind. [\[source\]](https://github.com/VDrift/vdrift) ⭐ 405 | 🐛 42 | 🌐 C++ | 📅 2026-04-07
 
@@ -222,7 +222,7 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Stunt Rally](https://stuntrally.tuxfamily.org)** - 3D racing game with Sci-Fi elements and own Track Editor. [\[source\]](https://github.com/stuntrally/stuntrally3) ⭐ 209 | 🐛 13 | 🌐 C++ | 📅 2026-04-18
 
-* **[Yorg](https://ya2.itch.io/yorg)** - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [\[source\]](https://github.com/cflavio/yorg) ⭐ 186 | 🐛 11 | 🌐 Python | 📅 2024-09-06 **Engine: [Panda3D](https://www.panda3d.org)** [\[source\]](https://github.com/panda3d/panda3d) ⭐ 5,218 | 🐛 368 | 🌐 C++ | 📅 2026-07-28
+* **[Yorg](https://ya2.itch.io/yorg)** - Yorg (Yorg's an Open Racing Game) is a free open source racing game developed by Ya2 using Panda3D for Windows, OSX and Linux. [\[source\]](https://github.com/cflavio/yorg) ⭐ 186 | 🐛 11 | 🌐 Python | 📅 2024-09-06 **Engine: [Panda3D](https://www.panda3d.org)** [\[source\]](https://github.com/panda3d/panda3d) ⭐ 5,217 | 🐛 368 | 🌐 C++ | 📅 2026-07-28
 
 * **[ManiaDrive](http://maniadrive.raydium.org)** - A free clone of [TrackMania](https://en.wikipedia.org/wiki/TrackMania), the great game from [Nadéo](https://en.wikipedia.org/wiki/Nadeo) studio. [\[source\]](http://maniadrive.raydium.org/index.php?downloads=yes) **Engine: [Raydium](https://raydium.org)** [\[source\]](https://raydium.org/data.php)
 
@@ -236,32 +236,32 @@ This is a list of different open-source video games and commercial video games o
 
 ## Real-Time strategies
 
-* **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [\[source\]](https://github.com/Anuken/Mindustry) ⭐ 28,825 | 🐛 14 | 🌐 Java | 📅 2026-09-03
+* **[Mindustry](https://mindustrygame.github.io)** - A sandbox tower-defense game. [\[source\]](https://github.com/Anuken/Mindustry) ⭐ 28,837 | 🐛 12 | 🌐 Java | 📅 2026-09-04
 
-* **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [\[source\]](https://github.com/OpenRA/OpenRA) ⭐ 17,324 | 🐛 1,583 | 🌐 C# | 📅 2026-09-01
+* **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [\[source\]](https://github.com/OpenRA/OpenRA) ⭐ 17,335 | 🐛 1,591 | 🌐 C# | 📅 2026-09-01
 
-* **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [\[source\]](https://github.com/SFTtech/openage) ⭐ 14,415 | 🐛 214 | 🌐 Python | 📅 2026-07-04
+* **[OpenAge](https://openage.sft.mx)** - A free (as in freedom) cross-platform RTS game engine that provides the mechanics of [Age of Empires](https://en.wikipedia.org/wiki/Age_of_Empires). [\[source\]](https://github.com/SFTtech/openage) ⭐ 14,416 | 🐛 214 | 🌐 Python | 📅 2026-07-04
 
-* **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [\[source\]](https://github.com/beyond-all-reason/Beyond-All-Reason) ⭐ 4,193 | 🐛 763 | 🌐 Lua | 📅 2026-09-03 **Engine: [Spring](https://springrts.com)** [\[source\]](https://github.com/spring/spring) ⭐ 3,981 | 🐛 2 | 🌐 C++ | 📅 2024-03-31
+* **[BAR](https://www.beyondallreason.info)** - Beyond All Reason. [\[source\]](https://github.com/beyond-all-reason/Beyond-All-Reason) ⭐ 4,197 | 🐛 764 | 🌐 Lua | 📅 2026-09-04 **Engine: [Spring](https://springrts.com)** [\[source\]](https://github.com/spring/spring) ⭐ 3,981 | 🐛 2 | 🌐 C++ | 📅 2024-03-31
 
-* **[Warzone 2100](https://wz2100.net)** -  A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [\[source\]](https://github.com/Warzone2100/warzone2100) ⭐ 3,933 | 🐛 607 | 🌐 C++ | 📅 2026-09-03
+* **[Warzone 2100](https://wz2100.net)** -  A free, open source, 3D real-time strategy game with a story-driven single-player campaign, online multi-player, offline skirmish, and more. [\[source\]](https://github.com/Warzone2100/warzone2100) ⭐ 3,934 | 🐛 606 | 🌐 C++ | 📅 2026-09-04
 
-* **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [\[source\]](https://github.com/widelands/widelands) ⭐ 3,049 | 🐛 574 | 🌐 C++ | 📅 2026-09-03
+* **[Widelands](https://www.widelands.org)** - A free, open source real-time strategy game. [\[source\]](https://github.com/widelands/widelands) ⭐ 3,050 | 🐛 574 | 🌐 C++ | 📅 2026-09-03
 
 * **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [\[source\]](https://github.com/eduard-permyakov/permafrost-engine) ⭐ 2,760 | 🐛 3 | 🌐 C | 📅 2026-08-28
 
-* **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [\[source\]](https://github.com/OpenHV/OpenHV) ⭐ 1,059 | 🐛 64 | 🌐 C# | 📅 2026-08-25
+* **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [\[source\]](https://github.com/OpenHV/OpenHV) ⭐ 1,062 | 🐛 64 | 🌐 C# | 📅 2026-08-25
 
-* **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). [\[source\]](https://github.com/dkfans/keeperfx) ⭐ 993 | 🐛 407 | 🌐 C | 📅 2026-09-03
+* **[Keeper FX](https://keeperfx.net)** - An open-source remake and fan expansion of [Dungeon Keeper](https://en.wikipedia.org/wiki/Dungeon_Keeper). [\[source\]](https://github.com/dkfans/keeperfx) ⭐ 994 | 🐛 406 | 🌐 C | 📅 2026-09-04
 
 * **[Zero-K](https://zero-k.info/)** - RTS game with physical projectiles, smart units
-  and a powerful UI. [\[source\]](https://github.com/ZeroK-RTS/Zero-K) ⭐ 826 | 🐛 1,268 | 🌐 Lua | 📅 2026-09-03 **Engine: [Spring](https://springrts.com)** [\[source\]](https://github.com/spring/spring) ⭐ 3,981 | 🐛 2 | 🌐 C++ | 📅 2024-03-31
+  and a powerful UI. [\[source\]](https://github.com/ZeroK-RTS/Zero-K) ⭐ 827 | 🐛 1,270 | 🌐 Lua | 📅 2026-09-03 **Engine: [Spring](https://springrts.com)** [\[source\]](https://github.com/spring/spring) ⭐ 3,981 | 🐛 2 | 🌐 C++ | 📅 2024-03-31
 
 * **[Dune II The Maker](https://dune2themaker.fundynamic.com)** - A Dune 2 remake. [\[source\]](https://github.com/stefanhendriks/Dune-II---The-Maker) ⭐ 364 | 🐛 399 | 🌐 C++ | 📅 2026-08-30
 
 * **Freeserf.net** - Аn authentic remake of the game [The Settlers I](https://en.wikipedia.org/wiki/The_Settlers) by [BlueByte](https://en.wikipedia.org/wiki/Ubisoft_Blue_Byte). [\[source\]](https://github.com/Pyrdacor/freeserf.net) ⭐ 169 | 🐛 41 | 🌐 C# | 📅 2026-06-16
 
-* **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [\[source\]](https://github.com/djeada/Standard-of-Iron) ⭐ 57 | 🐛 15 | 🌐 C++ | 📅 2026-09-02
+* **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [\[source\]](https://github.com/djeada/Standard-of-Iron) ⭐ 57 | 🐛 15 | 🌐 C++ | 📅 2026-09-03
 
 * **[0 A.D.](https://play0ad.com)** -  A free, open-source game of ancient warfare. [\[source\]](https://gitea.wildfiregames.com/0ad/0ad)
 
@@ -269,7 +269,7 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Strategus](https://stratagus.com)** Engine Games [\[source\]](https://github.com/Wargus/stratagus) ⭐ 730 | 🐛 32 | 🌐 C++ | 📅 2026-06-22
 
-  * **[Wargus](https://stratagus.com)** - Importer and scripts for [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness), the expansion [Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal), and Aleonas Tales. [\[source\]](https://github.com/Wargus/wargus) ⭐ 430 | 🐛 61 | 🌐 C | 📅 2026-06-29
+  * **[Wargus](https://stratagus.com)** - Importer and scripts for [Warcraft II: Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness), the expansion [Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal), and Aleonas Tales. [\[source\]](https://github.com/Wargus/wargus) ⭐ 430 | 🐛 62 | 🌐 C | 📅 2026-06-29
 
   * **[Wyrmsun](https://andrettin.github.io)** - A strategy game which features elements of mythology, history and fiction. [\[source\]](https://github.com/Andrettin/Wyrmsun) ⭐ 332 | 🐛 36 | 🌐 Lua | 📅 2025-04-17
 
@@ -277,7 +277,7 @@ This is a list of different open-source video games and commercial video games o
 
   * **[War1gus](https://stratagus.com/war1gus.html)** - A re-implementation of [Warcraft: Orcs & Humans](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans) that that can be played on modern platforms. [\[source\]](https://github.com/Wargus/war1gus) ⭐ 130 | 🐛 37 | 🌐 Lua | 📅 2026-06-22
 
-* **Warsmash Mod Engine** - An emulation engine to improve Warcraft III modding. [\[source\]](https://github.com/Retera/WarsmashModEngine) ⭐ 556 | 🐛 65 | 🌐 Java | 📅 2026-08-24 **Engine: [LibGDX](https://libgdx.com)** [\[source\]](https://github.com/libgdx/libgdx) ⭐ 25,364 | 🐛 342 | 🌐 Java | 📅 2026-09-01
+* **Warsmash Mod Engine** - An emulation engine to improve Warcraft III modding. [\[source\]](https://github.com/Retera/WarsmashModEngine) ⭐ 556 | 🐛 65 | 🌐 Java | 📅 2026-08-24 **Engine: [LibGDX](https://libgdx.com)** [\[source\]](https://github.com/libgdx/libgdx) ⭐ 25,368 | 🐛 338 | 🌐 Java | 📅 2026-09-04
 
 * **OpenBW** - Free and open-source Best Wargame. [\[source\]](https://github.com/OpenBW/openbw) ⭐ 215 | 🐛 19 | 🌐 C++ | 📅 2026-08-13 **[Brood War API](https://bwapi.github.io)** [\[source\]](https://github.com/OpenBW/bwapi) ⭐ 75 | 🐛 9 | 🌐 C++ | 📅 2021-05-27
 
@@ -293,15 +293,15 @@ This is a list of different open-source video games and commercial video games o
 
 ## Roguelikes
 
-* **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [\[source\]](https://github.com/CleverRaven/Cataclysm-DDA) ⭐ 13,069 | 🐛 1,809 | 🌐 C++ | 📅 2026-09-03
+* **[Cataclysm: Dark Days Ahead](https://cataclysmdda.org)** - A turn-based survival game set in a post-apocalyptic world. [\[source\]](https://github.com/CleverRaven/Cataclysm-DDA) ⭐ 13,074 | 🐛 1,807 | 🌐 C++ | 📅 2026-09-04
 
-* **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [\[source\]](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,477 | 🐛 10 | 🌐 Java | 📅 2026-08-15
+* **[Shattered Pixel Dungeon](https://shatteredpixel.com)** - An open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. [\[source\]](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,481 | 🐛 11 | 🌐 Java | 📅 2026-08-15
 
-* **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [\[source\]](https://github.com/NetHack/NetHack) ⭐ 3,891 | 🐛 142 | 🌐 C | 📅 2026-09-02
+* **[NetHack](https://nethack.org)** - Single player dungeon exploration game. [\[source\]](https://github.com/NetHack/NetHack) ⭐ 3,892 | 🐛 142 | 🌐 C | 📅 2026-09-02
 
-* **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [\[source\]](https://github.com/crawl/crawl) ⭐ 2,974 | 🐛 441 | 🌐 C++ | 📅 2026-09-03
+* **[Dungeon Crawl Stone Soup](https://crawl.develz.org)** - An open source roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot. [\[source\]](https://github.com/crawl/crawl) ⭐ 2,975 | 🐛 441 | 🌐 C++ | 📅 2026-09-04
 
-* **[Brogue CE](https://sites.google.com/site/broguegame/)** - Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [\[source\]](https://github.com/tmewett/BrogueCE) ⭐ 1,450 | 🐛 214 | 🌐 C | 📅 2026-08-05
+* **[Brogue CE](https://sites.google.com/site/broguegame/)** - Brogue is a minimalist, turn-based, procedurally-generated roguelike game where you descend a perilous dungeon to retrieve the Amulet of Yendor. [\[source\]](https://github.com/tmewett/BrogueCE) ⭐ 1,451 | 🐛 214 | 🌐 C | 📅 2026-08-05
 
 * **OpenNefia** - Moddable engine reimplementation of the Japanese roguelike [Elona](https://en.wikipedia.org/wiki/Elona_\(video_game\)). [\[source\]](https://github.com/OpenNefia/OpenNefia) ⭐ 152 | 🐛 55 | 🌐 C# | 📅 2024-06-27
 
@@ -309,27 +309,27 @@ This is a list of different open-source video games and commercial video games o
 
 ## Role-Playing games
 
-* **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [\[source\]](https://github.com/veloren/veloren) ⭐ 7,533 | 🐛 4 | 🌐 Rust | 📅 2026-09-03
+* **[Veloren](https://www.veloren.net/)** - multiplayer voxel RPG written in Rust. [\[source\]](https://github.com/veloren/veloren) ⭐ 7,535 | 🐛 4 | 🌐 Rust | 📅 2026-09-03
 
-* **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). [\[source\]](https://github.com/OpenMW/openmw) ⭐ 6,543 | 🐛 0 | 🌐 C++ | 📅 2026-09-03
+* **[OpenMW](https://openmw.org)** - A free, open source, and modern engine which re-implements and extends the 2002 Gamebryo engine for the open-world role-playing game [The Elder Scrolls III: Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind). [\[source\]](https://github.com/OpenMW/openmw) ⭐ 6,548 | 🐛 0 | 🌐 C++ | 📅 2026-09-03
 
-* **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [\[source\]](https://github.com/space-wizards/space-station-14) ⭐ 3,769 | 🐛 4,271 | 🌐 C# | 📅 2026-09-03
+* **[Space Station 14](https://spacestation14.io/)** – Open-source remake of [Space Station 13](https://en.wikipedia.org/wiki/Space_Station_13). [\[source\]](https://github.com/space-wizards/space-station-14) ⭐ 3,774 | 🐛 4,270 | 🌐 C# | 📅 2026-09-04
 
-* **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [\[source\]](https://github.com/Interkarma/daggerfall-unity) ⭐ 3,484 | 🐛 78 | 🌐 C# | 📅 2026-08-24
+* **[Daggerfall Unity](https://www.dfworkshop.net)** - An open source recreation of [Daggerfall](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall) in the Unity engine. [\[source\]](https://github.com/Interkarma/daggerfall-unity) ⭐ 3,486 | 🐛 78 | 🌐 C# | 📅 2026-08-24
 
-* **Fallout Community Edition** - A fully working re-implementation of [Fallout](https://en.wikipedia.org/wiki/Fallout_\(video_game\)). [\[source\]](https://github.com/alexbatalov/fallout1-ce) ⭐ 2,904 | 🐛 136 | 🌐 C++ | 📅 2025-01-15
+* **Fallout Community Edition** - A fully working re-implementation of [Fallout](https://en.wikipedia.org/wiki/Fallout_\(video_game\)). [\[source\]](https://github.com/alexbatalov/fallout1-ce) ⭐ 2,903 | 🐛 136 | 🌐 C++ | 📅 2025-01-15
 
-* **Fallout 2 Community Edition** - A fully working re-implementation of [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2). [\[source\]](https://github.com/alexbatalov/fallout2-ce) ⭐ 2,419 | 🐛 134 | 🌐 C++ | 📅 2025-02-17
+* **Fallout 2 Community Edition** - A fully working re-implementation of [Fallout 2](https://en.wikipedia.org/wiki/Fallout_2). [\[source\]](https://github.com/alexbatalov/fallout2-ce) ⭐ 2,418 | 🐛 134 | 🌐 C++ | 📅 2025-02-17
 
-* **OpenEnroth** - [Might and Magic VI-VIII](https://en.wikipedia.org/wiki/Might_and_Magic) engine remake using original data & code. [\[source\]](https://github.com/OpenEnroth/OpenEnroth) ⭐ 853 | 🐛 188 | 🌐 C++ | 📅 2026-09-03
+* **OpenEnroth** - [Might and Magic VI-VIII](https://en.wikipedia.org/wiki/Might_and_Magic) engine remake using original data & code. [\[source\]](https://github.com/OpenEnroth/OpenEnroth) ⭐ 854 | 🐛 177 | 🌐 C++ | 📅 2026-09-04
 
-* **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [\[source\]](https://github.com/exult/exult) ⭐ 682 | 🐛 79 | 🌐 C++ | 📅 2026-09-03
+* **[Exult](https://exult.sourceforge.io)** - A project to recreate [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) for modern operating systems. [\[source\]](https://github.com/exult/exult) ⭐ 682 | 🐛 79 | 🌐 C++ | 📅 2026-09-04
 
 * **[Oolite](https://www.oolite.space/)** - An open-world space opera. [\[source\]](https://github.com/OoliteProject/oolite) ⭐ 655 | 🐛 86 | 🌐 Objective-C | 📅 2026-08-31
 
 * **[Ambermoon.net](https://pyrdacor.itch.io/ambermoon)** - A full C# rewrite of [Ambermoon](https://en.wikipedia.org/wiki/Ambermoon). [\[source\]](https://github.com/Pyrdacor/Ambermoon.net) ⭐ 536 | 🐛 40 | 🌐 C# | 📅 2026-08-19
 
-* **[Severed Chains](https://legendofdragoon.org/projects/severed-chains)** - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [\[source\]](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 516 | 🐛 202 | 🌐 Java | 📅 2026-09-02
+* **[Severed Chains](https://legendofdragoon.org/projects/severed-chains)** - [The Legend of Dragoon](https://en.wikipedia.org/wiki/The_Legend_of_Dragoon) decompiled, reverse engineered, and ported to PC/Mac/Linux/Steam Deck. [\[source\]](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains) ⭐ 516 | 🐛 204 | 🌐 Java | 📅 2026-09-04
 
 * **[Ultima VII: Revisited](https://www.u7revisited.com)** - A replacement engine for [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate) that presents the game in 3D and fixes various issues with the game. [\[source\]](https://github.com/ViridianGames/U7Revisited) ⭐ 501 | 🐛 17 | 🌐 Lua | 📅 2026-09-03
 
@@ -359,7 +359,7 @@ This is a list of different open-source video games and commercial video games o
 
 * **Open Diablo II** - An open source re-implementation of [Diablo 2](https://en.wikipedia.org/wiki/Diablo_II). [\[source\]](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived
 
-* **[DevilutionX](https://devilutionx.com/)** - A port of [Diablo](https://en.wikipedia.org/wiki/Diablo_\(video_game\)) and [Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [\[source\]](https://github.com/diasurgical/devilutionX) ⭐ 9,710 | 🐛 478 | 🌐 C++ | 📅 2026-08-31
+* **[DevilutionX](https://devilutionx.com/)** - A port of [Diablo](https://en.wikipedia.org/wiki/Diablo_\(video_game\)) and [Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features. [\[source\]](https://github.com/diasurgical/devilutionX) ⭐ 9,712 | 🐛 479 | 🌐 C++ | 📅 2026-09-04
 
 * **[Freeablo](https://freeablo.org)** - A work-in-progress free and open-source replacement for the [Diablo I](https://en.wikipedia.org/wiki/Diablo_\(video_game\)) engine. [\[source\]](https://github.com/wheybags/freeablo) ⭐ 2,170 | 🐛 63 | 🌐 C++ | 📅 2023-04-13
 
@@ -379,7 +379,7 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Taisei Project](https://taisei-project.org)** - A free and open-source fangame of the [Tōhō series](https://en.wikipedia.org/wiki/Touhou_Project), written in C using SDL3 and OpenGL. [\[source\]](https://github.com/taisei-project/taisei) ⭐ 1,609 | 🐛 33 | 🌐 C | 📅 2026-09-01
 
-* **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [\[source\]](https://github.com/fragglet/sdl-sopwith) ⭐ 115 | 🐛 16 | 🌐 C | 📅 2026-08-19
+* **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** - A port of the classic biplane shoot ‘em-up “Sopwith” to run on modern computers and operating systems. [\[source\]](https://github.com/fragglet/sdl-sopwith) ⭐ 116 | 🐛 16 | 🌐 C | 📅 2026-08-19
 
 ## Sport games
 
@@ -407,17 +407,17 @@ This is a list of different open-source video games and commercial video games o
 
 ## Tower Defence games
 
-* **[Server Survival](https://pshenok.github.io/server-survival)** - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. [\[source\]](https://github.com/pshenok/server-survival) ⭐ 6,388 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-26
+* **[Server Survival](https://pshenok.github.io/server-survival)** - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. [\[source\]](https://github.com/pshenok/server-survival) ⭐ 6,392 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-26
 
 ## Turn-Based strategies
 
-* **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of [Civilization V](https://en.wikipedia.org/wiki/Civilization_V). [\[source\]](https://github.com/yairm210/Unciv) ⭐ 11,216 | 🐛 137 | 🌐 Kotlin | 📅 2026-09-03
+* **[Unciv](https://yairm210.itch.io/unciv)** - Open-source Android/Desktop remake of [Civilization V](https://en.wikipedia.org/wiki/Civilization_V). [\[source\]](https://github.com/yairm210/Unciv) ⭐ 11,219 | 🐛 142 | 🌐 Kotlin | 📅 2026-09-03
 
-* **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [\[source\]](https://github.com/wesnoth/wesnoth) ⭐ 6,856 | 🐛 1,508 | 🌐 C++ | 📅 2026-09-03
+* **[The Battle for Wesnoth](https://www.wesnoth.org/)** - A turn-based strategy game with a high fantasy theme. [\[source\]](https://github.com/wesnoth/wesnoth) ⭐ 6,858 | 🐛 1,505 | 🌐 C++ | 📅 2026-09-04
 
-* **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [\[source\]](https://github.com/vcmi/vcmi) ⭐ 5,825 | 🐛 681 | 🌐 C++ | 📅 2026-09-01
+* **[VCMI Project](https://vcmi.eu)** - Open-source engine for [Heroes of Might and Magic III](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III). [\[source\]](https://github.com/vcmi/vcmi) ⭐ 5,826 | 🐛 683 | 🌐 C++ | 📅 2026-09-03
 
-* **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [\[source\]](https://github.com/ihhub/fheroes2) ⭐ 3,453 | 🐛 426 | 🌐 C++ | 📅 2026-09-03
+* **[fheroes2](https://ihhub.github.io/fheroes2)** - A recreation of [Heroes of Might and Magic II](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II) game engine. [\[source\]](https://github.com/ihhub/fheroes2) ⭐ 3,455 | 🐛 425 | 🌐 C++ | 📅 2026-09-04
 
 * **[OpenXcom](https://openxcom.org/)** - An open-source clone of the popular [UFO: Enemy Unknown](https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown) and [X-COM: Terror From the Deep](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep) video games by [MicroPros](https://en.wikipedia.org/wiki/MicroProse). [\[source\]](https://github.com/OpenXcom/OpenXcom) ⭐ 2,213 | 🐛 84 | 🌐 C++ | 📅 2026-06-05
 
@@ -425,15 +425,15 @@ This is a list of different open-source video games and commercial video games o
 
 * [Ancient Beast](https://ancientbeast.com) - A turn based strategy indie game project played online against other people. [\[source\]](https://github.com/FreezingMoon/AncientBeast) ⭐ 1,875 | 🐛 463 | 🌐 TypeScript | 📅 2026-08-11
 
-* **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [\[source\]](https://github.com/freeciv/freeciv) ⭐ 1,585 | 🐛 9 | 🌐 C | 📅 2026-09-03
+* **[Freeciv](http://www.freeciv.org/)** - A Free and Open Source empire-building strategy game. [\[source\]](https://github.com/freeciv/freeciv) ⭐ 1,586 | 🐛 10 | 🌐 C | 📅 2026-09-04
 
-* **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [\[source\]](https://github.com/freeorion/freeorion) ⭐ 1,037 | 🐛 525 | 🌐 C++ | 📅 2026-09-03
+* **[FreeOrion](https://www.freeorion.org/index.php/Main_Page)** - A free, open source, turn-based space empire and galactic conquest (4X) computer game. [\[source\]](https://github.com/freeorion/freeorion) ⭐ 1,038 | 🐛 527 | 🌐 C++ | 📅 2026-09-03
 
 * **[FreeCol](https://www.freecol.org/)** - A turn-based strategy game based on the old game[Colonization](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization), and similar to [Civilization](https://en.wikipedia.org/wiki/Civilization_\(video_game\)). [\[source\]](https://github.com/FreeCol/freecol) ⭐ 706 | 🐛 37 | 🌐 Java | 📅 2026-09-03
 
 * **[OpenPanzer](https://www.linuxconsulting.ro/openpanzer)** - Javascript/HTML5 rewrite of [Panzer General II](https://en.wikipedia.org/wiki/Panzer_General_II) game. [\[source\]](https://github.com/nicupavel/openpanzer) ⭐ 184 | 🐛 25 | 🌐 JavaScript | 📅 2021-02-27
 
-* **[Hnefatafl](https://hnefatafl.org/)** - The game of Copenhagen Hnefatafl. Sort of like chess. [\[source\]](https://github.com/dcampbell24/hnefatafl) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-09-03
+* **[Hnefatafl](https://hnefatafl.org/)** - The game of Copenhagen Hnefatafl. Sort of like chess. [\[source\]](https://github.com/dcampbell24/hnefatafl) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-09-04
 
 * **[C-evo](http://c-evo.org/)** - A freeware empire-building game for Windows. [\[source\]](http://c-evo.org/files/files.php)
 
@@ -441,9 +441,9 @@ This is a list of different open-source video games and commercial video games o
 
 * **[Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived**
 
-* **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) ⭐ 3,050 | 🐛 8 | 📅 2026-08-14**
+* **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) ⭐ 3,051 | 🐛 8 | 📅 2026-08-14**
 
-* **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) ⭐ 1,450 | 🐛 1 | 📅 2026-08-17**
+* **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) ⭐ 1,451 | 🐛 1 | 📅 2026-08-17**
 
 * **[Libre Game Wiki](https://libregamewiki.org)**
 
@@ -459,4 +459,4 @@ This is a list of different open-source video games and commercial video games o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
